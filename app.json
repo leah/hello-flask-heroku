@@ -1,0 +1,6 @@
+{
+  "name": "hello-flask-heroku",
+  "description": "A hello world app in Flask for deploying to Heroku.",
+  "repository": "https://github.com/leah/hello-flask-heroku",
+  "keywords": ["flask", "heroku"]
+}
